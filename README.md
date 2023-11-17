@@ -34,7 +34,7 @@
 
 会在生成一个vscode文件夹，内部有基本的launch.json和tasks.json配置文件
 
-c_cpp_properties文件创建
+
 
 
 
