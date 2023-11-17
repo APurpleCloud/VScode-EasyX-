@@ -34,6 +34,42 @@
 
 会在生成一个vscode文件夹，内部有基本的launch.json和tasks.json配置文件
 
+#### c_cpp_properties文件创建
+
+ctrl+shift+p打开命令面板
+
+输入指令：C_Cpp.ConfigurationEditUI
+
+会跳转到C/C++编辑配置界面
+
+往下滑找到“包含路径”选项
+
+在方框内添加EasyX头文件的文件夹路径
+
+>当然也可以在c_cpp_properties文件的"includePath"项下面添加
+
+
+如图所示
+
+#### 复制EasyX头文件的文件夹路径
+
+![屏幕截图 2023-11-17 193612](https://github.com/APurpleCloud/VScode-EasyX-/assets/108115022/98d86176-0d8a-4fbe-a44b-2bf7d8a42604)
+
+
+#### 粘贴至VScode的C/C++编辑配置界面的“包含路径”选项
+
+![屏幕截图 2023-11-17 194049](https://github.com/APurpleCloud/VScode-EasyX-/assets/108115022/79ce0147-e0e7-4145-bf8c-ee5698e9586c)
+
+
+### 4.修改/增加配置文件参数
+
+
+
+
+
+
+
+
 
 
 
