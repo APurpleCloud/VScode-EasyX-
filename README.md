@@ -14,7 +14,7 @@
 
 其中include文件夹内为.h头文件，lib文件夹内为.a库文件
 
-文件夹如图所示：
+### 文件夹如图所示：
 
 ![屏幕截图 2023-11-17 184318](https://github.com/APurpleCloud/VScode-EasyX-/assets/108115022/9f717515-5ea0-4849-93f8-cbcb41bc7bca)
 
@@ -34,6 +34,8 @@
 
 会在生成一个vscode文件夹，内部有基本的launch.json和tasks.json配置文件
 
+---
+
 ### 2)c_cpp_properties文件创建
 
 ctrl+shift+p打开命令面板
@@ -49,7 +51,7 @@ ctrl+shift+p打开命令面板
 >当然也可以在c_cpp_properties文件的"includePath"项下面添加
 
 
-如图所示
+### 如图所示:
 
 ### 复制EasyX头文件的文件夹路径
 
