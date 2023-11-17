@@ -1,6 +1,6 @@
 # VScode-EasyX-
 
-——在VScode上导入C++的第三方函数库EasyX，配置对于MinGW的.json文件。
+——在VScode上导入C++的第三方函数库EasyX，对于MinGW的编译环境配置.json文件。
 
 ## 1.下载对于MinGW的EasyX库
 
