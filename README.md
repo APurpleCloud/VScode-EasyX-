@@ -26,7 +26,7 @@
 
 ### 3.在VScode中创建各项文件
 
-#### launch和tasks文件创建
+#### 1)launch和tasks文件创建
 
 先创建任意.cpp文件
 
@@ -40,7 +40,7 @@
 
 会在生成一个vscode文件夹，内部有基本的launch.json和tasks.json配置文件
 
-#### c_cpp_properties文件创建
+#### 2)c_cpp_properties文件创建
 
 ctrl+shift+p打开命令面板
 
